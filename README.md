@@ -2,6 +2,10 @@
 
 ![Tela inicial](./desktop.png)
 
+<img align="right" src="./assets/electronjs-icon.svg" alt="Electron" width="32px"/>
+<img align="right" src="./assets/jquery-ui.svg" alt="JQuery UI" width="32px"/>
+<img align="right" src="./assets/jquery.svg" alt="JQuery" width="32px"/>
+
  Um sistema desktop para ajudar a gerir a empresa e o dilheiro vindo das locações.
 
 ## Bibliotecas
